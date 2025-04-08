@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+C3aulyRXLw=",
+  "success": true,
+  "projectFilePath": "/Users/otrajanov/Desktop/F#/Fibonacci/F#.fsproj",
+  "expectedPackageFiles": [
+    "/Users/otrajanov/.nuget/packages/fsharp.core/9.0.201/fsharp.core.9.0.201.nupkg.sha512"
+  ],
+  "logs": []
+}
